@@ -1,0 +1,601 @@
+Incident_ID,Date,Region,Team,Incident_Type,Severity,Status,Response_Time_Hours,Resolution_Time_Hours,Lesson_or_Action
+INC-00001,2026-04-22,North East,Estates Support,Process failure,Low,Closed,0.6,10.0,Documentation updated
+INC-00002,2026-02-05,Wales,Facilities Response,Data quality issue,Low,Closed,7.4,28.8,Process updated
+INC-00003,2026-04-04,North East,Estates Support,Supplier delay,High,Closed,8.1,18.2,No further action
+INC-00004,2026-05-13,North East,Facilities Response,Data quality issue,Medium,Closed,7.2,20.8,Process updated
+INC-00005,2026-03-31,South East,Facilities Response,Staffing shortage,Medium,Open,2.4,18.6,
+INC-00006,2026-05-14,North West,Facilities Response,Supplier delay,Medium,Open,1.6,22.4,
+INC-00007,2026-03-25,North East,Workplace Services,System outage,Low,Closed,2.6,14.3,Supplier action
+INC-00008,2026-04-04,Scotland,Workplace Services,Data quality issue,High,Closed,2.0,42.2,Process updated
+INC-00009,2026-06-11,North East,Estates Support,Health & safety issue, high ,Open,16.5,21.1,
+INC-00010,2026-04-15,South East,Workplace Projects,Building issue,Low,In Progress,6.2,20.0,
+INC-00011,2026-06-03,Wales,Workplace Services,System outage,High,Closed,15.3,33.0,Supplier action
+INC-00012,2026-05-05,North West,Estates Support,System outage,Low,Closed,1.9,8.2,Training required
+INC-00013,2026-02-22,Wales,Estates Support,Process failure,Medium,Closed,5.4,12.7,No further action
+INC-00014,2026-01-15,South East,Workplace Services,Customer escalation,Medium,Closed,8.3,11.3,Process updated
+INC-00015,2026-06-04,South East,Facilities Response,Supplier delay,Low,Closed,2.7,20.4,Documentation updated
+INC-00016,2026-06-08,North West,Workplace Services,Health & safety issue,Low,In Progress,3.1,11.5,
+INC-00017,2026-03-09,South East,Facilities Response,Staffing shortage,Low,Closed,3.3,19.2,Supplier action
+INC-00018,2026-03-10,South East,Facilities Response,Process failure,High,Closed,25.9,31.0,Documentation updated
+INC-00019,2026-04-14,Midlands,Workplace Services,Health & safety issue,Low,Open,3.5,4.9,
+INC-00020,2026-03-09,South East,Workplace Services,Supplier delay,Medium,Closed,4.8,21.6,Supplier action
+INC-00021,2026-01-29,Scotland,Workplace Services,Customer escalation,High,Closed,1.9,130.1,No further action
+INC-00022,2026-02-26,North West,Facilities Response,Health & safety issue,Medium,In Progress,2.9,27.4,
+INC-00023,2026-06-29,South East,Facilities Response,Customer escalation,Low,Open,3.0,34.8,
+INC-00024,2026-05-10,Midlands,Estates Support,System outage,Medium,Closed,0.7,44.6,Process updated
+INC-00025,2026-06-29,North West,Workplace Projects,Building issue,Low,Closed,3.9,4.1,Documentation updated
+INC-00026,2026-02-18,North East,Workplace Projects,Data quality issue,Medium,Open,4.3,8.0,
+INC-00027,2026-03-12,South West,Workplace Services,Staffing shortage,Low,Closed,6.0,11.4,Documentation updated
+INC-00028,2026-02-18,North  West,Facilities Response,Staffing shortage,High,Closed,3.8,42.1,Training required
+INC-00029,2026-04-23,North West,Facilities Response,Data quality issue,Medium,Closed,2.5,3.9,Supplier action
+INC-00030,2026-02-01,North West,Estates Support,Data quality issue,Medium,Closed,0.6,3.7,Training required
+INC-00031,2026-05-15,South West,Workplace Services,Staffing shortage,Medium,Closed,4.0,20.3,Process updated
+INC-00032,2026-03-08,South East,Workplace Projects,Supplier delay,Low,Closed,1.3,17.4,Supplier action
+INC-00033,2026-05-24,North West,Workplace Services,Process failure,Low,Closed,0.4,1.5,Documentation updated
+INC-00034,2026-05-27,Scotland,Estates Support,Data quality issue,Medium,Closed,11.7,42.3,No further action
+INC-00035,2026-01-11,North East,Facilities Response,Customer escalation,Low,Open,6.6,11.9,
+INC-00036,2026-05-17,Midlands,Workplace Projects,Supplier delay,Low,Open,0.9,26.5,
+INC-00037,2026-04-30,Wales,Estates Support,System outage,Medium,Closed,0.6,6.2,Training required
+INC-00038,2026-01-25,North East,Facilities Response,Process failure,Medium,Open,1.2,42.7,
+INC-00039,2026-04-08,North West,Estates Support,Health & safety issue,High,In Progress,15.2,36.3,
+INC-00040,2026-02-03,Midlands,Workplace Services,Data quality issue,Medium,In Progress,0.6,3.2,
+INC-00041,2026-02-26,North East,Estates Support,Data quality issue,Medium,In Progress,6.0,9.5,
+INC-00042,2026-06-22,South East,Workplace Services,Supplier delay,Low,Closed,1.0,17.9,Supplier action
+INC-00043,2026-06-30,South West,Facilities Response,Staffing shortage,Low,Closed,1.9,17.9,Supplier action
+INC-00044,2026-02-23,Midlands,Estates Support,Process failure,High,In Progress,6.5,16.1,
+INC-00045,2026-05-28,North East,Workplace Projects,Process failure,Low,Closed,3.5,8.6,Training required
+INC-00046,2026-03-14,Scotland,Workplace Services,Building issue,Low,Closed,3.5,11.3,Supplier action
+INC-00047,2026-05-11,Scotland,Workplace Projects,Process failure,Medium,Closed,1.0,7.8,Supplier action
+INC-00048,2026-02-18,Scotland,Facilities Response,System outage,Medium,Open,4.4,41.5,
+INC-00049,2026-01-08,South West,Workplace Services,Process failure,Medium,Closed,12.2,30.9,Supplier action
+INC-00050,2026-06-03,Scotland,Facilities Response,Supplier delay,Low,Closed,1.0,11.6,Training required
+INC-00051,2026-05-15,Scotland,Workplace Services,Staffing shortage,Medium,Closed,3.2,31.8,No further action
+INC-00052,2026-06-16,Midlands,Estates Support,System outage,High,Closed,7.8,27.9,Supplier action
+INC-00053,2026-02-06,Midlands,Facilities Response,Data quality issue,Medium,Closed,4.4,23.9,Documentation updated
+INC-00054,2026-06-10,South East,Facilities Response,Supplier delay,High,Closed,18.2,18.9,Documentation updated
+INC-00055,2026-05-21,North West,Workplace Projects,Customer escalation,Medium,Open,0.8,2.5,
+INC-00056,2026-03-03,Midlands,Workplace Services,Data quality issue,Medium,Closed,7.8,17.5,No further action
+INC-00057,2026-05-13,South East,Workplace Services,Process failure,Low,Closed,1.6,5.0,Process updated
+INC-00058,2026-06-25,Scotland,Facilities Response,Customer escalation,Low,Closed,2.1,3.8,Supplier action
+INC-00059,2026-02-06,South East,Estates Support,Customer escalation,Medium,Closed,12.2,93.7,No further action
+INC-00060,2026-01-04,North East,Workplace Projects,Process failure,High,In Progress,15.9,19.8,
+INC-00061,2026-04-17,North East,Facilities Response,Supplier delay,Low,Closed,6.5,26.8,Process updated
+INC-00062,2026-01-09,Wales,Facilities Response,Staffing shortage,Medium,Closed,4.1,16.3,Process updated
+INC-00063,2026-01-03,South East,Facilities Response,Building issue,Medium,Closed,5.0,20.6,Training required
+INC-00064,2026-01-11,South East,Estates Support,Building issue,Low,Closed,0.5,24.6,Training required
+INC-00065,2026-01-09,North West,Workplace Services,Staffing shortage,Medium,Closed,3.1,11.5,Supplier action
+INC-00066,2026-05-13,Scotland,Facilities Response,Data quality issue,Low,In Progress,8.2,68.2,
+INC-00067,2026-04-24,Midlands,Workplace Projects,Staffing shortage,Medium,Closed,4.7,24.2,Supplier action
+INC-00068,2026-02-02,South East,Estates Support,Data quality issue,High,Closed,2.3,7.6,Documentation updated
+INC-00069,2026-04-17,North East,Workplace Services,Customer escalation,Medium,Closed,7.5,10.6,Supplier action
+INC-00070,2026-02-14,South East,Estates Support,Supplier delay,High,Closed,15.4,23.3,Training required
+INC-00071,2026-04-10,Midlands,Workplace Services,Customer escalation,Medium,Closed,2.2,19.5,Process updated
+INC-00072,2026-01-17,Scotland,Facilities Response,Health & safety issue,Medium,In Progress,8.1,10.1,
+INC-00073,2026-06-07,Scotland,Workplace Services,Customer escalation,Critical,Open,15.4,150.9,
+INC-00074,2026-01-22,Wales,Workplace Projects,Data quality issue,Medium,Closed,1.4,27.9,Process updated
+INC-00075,2026-05-18,Midlands,Facilities Response,Staffing shortage,Medium,Closed,10.8,76.1,Documentation updated
+INC-00076,2026-06-13,South West,Workplace Projects,Customer escalation,Medium,In Progress,0.6,7.6,
+INC-00077,2026-03-20,South East,Estates Support,Supplier delay,Medium,Closed,2.1,107.4,Process updated
+INC-00078,2026-04-09,Midlands,Estates Support,Building issue,Medium,In Progress,2.3,35.3,
+INC-00079,2026-06-24,South West,Facilities Response,Staffing shortage,Low,Closed,11.9,12.3,Documentation updated
+INC-00080,2026-01-21,Wales,Workplace Services,Process failure,Medium,Closed,2.1,76.5,Process updated
+INC-00081,2026-02-27,Wales,Estates Support,Staffing shortage,Medium,Closed,5.8,14.1,No further action
+INC-00082,2026-01-27,Wales,Facilities Response,Building issue,Low,In Progress,0.9,8.5,
+INC-00083,2026-02-19,South East,Estates Support,Data quality issue,Medium,In Progress,12.6,74.3,
+INC-00084,2026-05-28,South East,Workplace Services,Customer escalation,Low,Closed,3.6,7.2,Process updated
+INC-00085,2026-06-15,North East,Workplace Projects,Process failure,Low,In Progress,1.4,21.5,
+INC-00086,2026-05-19,Wales,Workplace Services,Supplier delay,Low,Closed,2.6,14.1,Supplier action
+INC-00087,2026-02-14,South East,Workplace Projects,Health & safety issue,Medium,Closed,3.8,5.8,Process updated
+INC-00088,2026-03-17,Wales,Workplace Projects,Process failure,Low,Open,4.6,14.9,
+INC-00089,2026-06-09,Wales,Workplace Services,System outage,Medium,Closed,2.7,3.3,No further action
+INC-00090,2026-06-03,North West,Facilities Response,Supplier delay,Critical,Closed,24.0,35.3,No further action
+INC-00091,2026-02-18,Wales,Workplace Services,Process failure,Medium,Closed,14.3,15.3,Process updated
+INC-00092,2026-04-24,Wales,Workplace Projects,Process failure,Medium,Open,2.6,33.0,
+INC-00093,2026-01-07,South West,Workplace Projects,Supplier delay,Medium,Closed,3.8,4.5,No further action
+INC-00094,2026-04-16,Midlands,Facilities Response,Customer escalation,Low,Open,1.0,26.9,
+INC-00095,2026-05-02,North West,Facilities Response,Health & safety issue,Low,In Progress,5.8,19.3,
+INC-00096,2026-02-20,North East,Facilities Response,Process failure,Medium,In Progress,28.5,94.8,
+INC-00097,2026-05-11,Scotland,Estates Support,Building issue,Medium,Closed,9.7,13.1,Documentation updated
+INC-00098,2026-06-08,North West,Workplace Projects,Data quality issue,Low,Open,2.0,57.4,
+INC-00099,2026-06-01,Midlands,Estates Support,Data quality issue,Medium,Closed,7.0,19.0,Training required
+INC-00100,2026-03-20,Wales,Facilities Response,Staffing shortage,Medium,Closed,2.2,10.2,Supplier action
+INC-00101,2026-01-18,South West,Estates Support,Supplier delay,Low,Open,8.7,11.2,
+INC-00102,2026-06-21,North West,Facilities Response,Building issue,Low,In Progress,2.4,3.7,
+INC-00103,2026-05-05,Midlands,Workplace Projects,Data quality issue,Medium,In progress,1.0,20.0,Process updated
+INC-00104,2026-01-28,North East,Workplace Services,System outage,Low,Open,0.8,44.9,
+INC-00105,2026-02-16,North East,Facilities Response,Process failure,Low,Closed,2.4,16.3,Process updated
+INC-00106,2026-01-01,Midlands,Workplace Projects,System outage,Medium,Closed,1.4,4.7,Process updated
+INC-00107,2026-04-17,South East,Workplace Services,System outage,Medium,Closed,6.6,17.2,No further action
+INC-00108,2026-05-28,North East,Facilities Response,Building issue,Low,Open,0.5,13.4,
+INC-00109,2026-02-04,Midlands,Workplace Services,System outage,Low,Closed,3.4,18.1,No further action
+INC-00110,2026-06-30,Midlands,Estates Support,Supplier delay,Low,Closed,3.9,29.4,Supplier action
+INC-00111,2026-06-27,North West,Facilities Response,Health & safety issue,Low,In Progress,0.9,36.3,
+INC-00112,2026-05-04,South West,Facilities Response,Customer escalation,Low,In Progress,2.4,27.9,
+INC-00113,2026-03-27,North East,Workplace Services,Supplier delay,High,Closed,10.6,31.6,Process updated
+INC-00114,2026-01-26,South East,Workplace Projects,Staffing shortage,Medium,Closed,6.3,26.6,Supplier action
+INC-00115,2026-01-31,South West,Workplace Services,System outage,Medium,Closed,2.6,5.7,Process updated
+INC-00116,2026-06-10,North West,Workplace Projects,Building issue,Medium,In Progress,2.2,4.3,
+INC-00117,2026-04-08,North West,Facilities Response,Staffing shortage,High,Closed,13.1,62.0,Supplier action
+INC-00118,2026-04-19,South East,Workplace Projects,Customer escalation,Low,Closed,1.7,14.2,Training required
+INC-00119,2026-05-23,South West,Workplace Projects,System outage,Medium,Closed,4.4,15.0,Training required
+INC-00120,2026-01-11,South West,Facilities Response,Supplier delay,Medium,Closed,2.9,38.7,Training required
+INC-00121,2026-06-05,Scotland,Facilities Response,Building issue,Low,Closed,3.0,6.6,No further action
+INC-00122,2026-01-15,North West,Estates Support,Supplier delay,High,Open,27.3,27.9,
+INC-00123,2026-05-31,Midlands,Workplace Projects,Data quality issue,Medium,Closed,5.8,14.4,No further action
+INC-00124,2026-01-21,Midlands,Estates Support,Building issue,Low,Open,1.4,5.6,
+INC-00125,2026-01-27,Wales,Workplace Projects,Health & safety issue,Medium,Closed,5.2,27.9,Process updated
+INC-00126,2026-03-18,North West,Workplace Services,Customer escalation,Medium,Open,1.5,14.9,
+INC-00127,2026-03-12,North West,Workplace Services,Supplier delay,Medium,Open,3.3,4.9,
+INC-00128,2026-02-23,Midlands,Workplace Projects,Customer escalation,Medium,Closed,0.5,18.8,Documentation updated
+INC-00129,2026-05-17,South East,Estates Support,Supplier delay,Medium,Closed,9.7,51.2,Process updated
+INC-00130,2026-06-03,North East,Workplace Projects,Staffing shortage,Low,Open,2.3,16.2,
+INC-00131,2026-05-26,South East,Facilities Response,Supplier delay,Medium,In Progress,1.4,25.4,
+INC-00132,2026-06-10,North East,Workplace Services,Building issue,Low,Closed,3.6,13.6,Training required
+INC-00133,2026-03-19,South West,Workplace Services,Supplier delay,Medium,Closed,5.0,25.3,Training required
+INC-00134,2026-04-28,Midlands,Workplace Services,Customer escalation,Medium,Open,9.0,25.6,
+INC-00135,2026-04-12,Midlands,Estates Support,Data quality issue,Medium,In Progress,11.7,15.5,
+INC-00136,2026-05-16,North West,Facilities Response,Data quality issue,Low,In Progress,2.9,3.8,
+INC-00137,2026-01-05,Scotland,Workplace Projects,Process failure,Medium,Closed,6.2,10.9,Training required
+INC-00138,2026-01-03,North East,Facilities Response,Supplier delay,Critical,Closed,77.0,106.8,No further action
+INC-00139,2026-01-08,Midlands,Facilities Response,Building issue,High,In Progress,10.8,17.7,
+INC-00140,2026-04-16,Scotland,Workplace Services,Data quality issue,High,Closed,3.9,125.6,Supplier action
+INC-00141,2026-05-24,North West,Estates Support,Health & safety issue,Low,In Progress,5.0,23.4,
+INC-00142,2026-03-06,South East,Workplace Services,Process failure,Low,Closed,5.8,31.0,Documentation updated
+INC-00143,2026-01-16,Midlands,Workplace Projects,Process failure,Medium,Open,2.3,7.8,
+INC-00144,2026-03-07,North West,Facilities Response,System outage,High,Closed,3.9,19.4,Training required
+INC-00145,2026-02-24,North East,Facilities Response,Process failure,Medium,Open,10.0,14.2,
+INC-00146,2026-02-18,Scotland,Facilities Response,Process failure,Medium,Closed,10.6,40.1,No further action
+INC-00147,2026-01-14,Scotland,Workplace Services,Staffing shortage,Low,Closed,1.2,40.9,Training required
+INC-00148,2026-01-10,South East,Workplace Services,System outage,Medium,Open,5.2,7.9,
+INC-00149,2026-03-21,South East,Workplace Services,Staffing shortage,Low,Closed,6.5,20.3,Training required
+INC-00150,2026-05-16,Midlands,Workplace Projects,Data quality issue,Low,In Progress,3.1,45.6,
+INC-00151,2026-04-06,South West,Estates Support,Supplier delay,Medium,In Progress,1.1,19.5,
+INC-00152,2026-04-03,Scotland,Facilities Response,Staffing shortage,Medium,Closed,4.7,8.5,Process updated
+INC-00153,2026-05-10,Midlands,Facilities Response,Health & safety issue,Low,Closed,2.3,4.7,Documentation updated
+INC-00154,2026-03-14,South East,Facilities Response,Health & safety issue,Low,Open,3.7,16.3,
+INC-00155,2026-02-09,South East,Estates Support,Building issue,Low,Open,4.1,27.8,
+INC-00156,2026-06-27,Scotland,Workplace Projects,Health & safety issue,Low,In Progress,1.9,11.3,
+INC-00157,2026-01-14,North East,Workplace Services,Process failure,Medium,Closed,1.2,11.0,Documentation updated
+INC-00158,2026-05-18,South West,Workplace Projects,System outage,Medium,In Progress,0.6,5.6,
+INC-00159,2026-06-30,South East,Workplace Services,System outage,Low,Closed,1.4,14.5,Documentation updated
+INC-00160,2026-02-21,North East,Workplace Services,Data quality issue,Medium,Closed,2.5,26.6,Supplier action
+INC-00161,2026-06-29,South East,Facilities Response,Building issue,Medium,Closed,16.0,43.8,Process updated
+INC-00162,2026-06-18,South West,Workplace Projects,System outage,Low,Closed,9.7,13.4,Documentation updated
+INC-00163,2026-01-28,South West,Facilities Response,Process failure,Low,Closed,3.7,4.6,Documentation updated
+INC-00164,2026-03-10,South East,Workplace Services,Health & safety issue,Low,In Progress,0.5,17.8,
+INC-00165,2026-05-09,Scotland,Workplace Projects,System outage,Low,In Progress,2.8,9.0,
+INC-00166,2026-06-08,North West,Estates Support,Staffing shortage,Critical,Closed,4.3,13.9,Documentation updated
+INC-00167,2026-01-05,South West,Workplace Projects,Supplier delay,Low,Open,8.4,27.6,
+INC-00168,2026-04-14,South West,Facilities Response,Staffing shortage,Medium,Closed,2.0,7.4,Process updated
+INC-00169,2026-06-18,Wales,Estates Support,Supplier delay,Low,Closed,6.0,10.4,Training required
+INC-00170,2026-04-28,Midlands,Workplace Projects,Health & safety issue,Medium,Open,1.4,2.2,
+INC-00171,2026-01-17,Wales,Estates Support,Health & safety issue,Low,Closed,3.1,9.3,Training required
+INC-00172,2026-01-22,North West,Workplace Projects,Health & safety issue,Low,Closed,8.0,21.1,Supplier action
+INC-00173,2026-05-02,South East,Estates Support,Data quality issue,High,Closed,7.5,38.4,Documentation updated
+INC-00174,2026-05-06,South East,Workplace Projects,Customer escalation,Medium,Open,0.8,7.7,
+INC-00175,2026-05-30,Wales,Facilities Response,Building issue,Medium,Closed,1.1,21.9,No further action
+INC-00176,2026-01-27,Wales,Estates Support,Health & safety issue,Medium,Open,7.1,21.2,
+INC-00177,2026-04-07,Midlands,Estates Support,Customer escalation,Low,In Progress,0.7,11.5,
+INC-00178,2026-01-25,South East,Estates Support,Supplier delay,Low,Closed,5.1,32.0,No further action
+INC-00179,2026-04-14,North East,Workplace Projects,Staffing shortage,High,Closed,7.7,48.1,Supplier action
+INC-00180,2026-06-04,South West,Workplace Projects,Data quality issue,Medium,Open,0.5,26.3,
+INC-00181,2026-02-23,South East,Facilities Response,Supplier delay,Low,In Progress,2.0,7.0,
+INC-00182,2026-03-11,South East,Workplace Services,Customer escalation,Low,In Progress,4.0,23.1,
+INC-00183,2026-06-03,North West,Workplace Services,Customer escalation,Low,In Progress,0.5,2.8,
+INC-00184,2026-02-26,North West,Workplace Services,Data quality issue,Medium,In Progress,5.6,6.8,
+INC-00185,2026-03-21,North East,Workplace Projects,Process failure,Medium,Closed,5.1,21.7,No further action
+INC-00186,2026-03-01,North West,Estates Support,Process failure,Low,In Progress,5.1,55.7,
+INC-00187,2026-04-27,South East,Workplace Projects,Building issue,Medium,Open,1.2,25.1,
+INC-00188,2026-05-26,North West,Workplace Services,Staffing shortage,Medium,Closed,7.1,13.5,Process updated
+INC-00189,2026-05-25,South West,Workplace Projects,Staffing shortage,Medium,Open,2.9,18.2,
+INC-00190,2026-05-24,North East,Workplace Projects,Supplier delay,Low,Closed,0.4,0.7,Documentation updated
+INC-00191,2026-03-22,Wales,Estates Support,Supplier delay,High,Closed,5.6,68.7,Documentation updated
+INC-00192,2026-03-05,North East,Workplace Services,Health & safety issue,Low,In Progress,4.6,17.2,
+INC-00193,2026-05-06,South East,Facilities Response,Health & safety issue,High,Closed,0.9,2.7,No further action
+INC-00194,2026-04-18,Scotland,Estates Support,System outage,High,Open,1.0,11.2,
+INC-00195,2026-04-16,North West,Workplace Projects,Customer escalation,Low,Open,5.8,52.2,
+INC-00196,2026-05-24,South East,Facilities Response,Process failure,High,Open,2.3,61.0,
+INC-00197,2026-04-17,Scotland,Facilities Response,Building issue,Medium,Open,2.4,29.0,
+INC-00198,2026-03-11,Wales,Facilities Response,Staffing shortage,Medium,Open,1.2,39.7,
+INC-00199,2026-05-29,Scotland,Workplace Projects,Process failure,Medium,Closed,3.9,73.9,Documentation updated
+INC-00200,2026-05-11,South East,Workplace Services,Staffing shortage,Medium,Closed,18.4,35.3,Process updated
+INC-00201,2026-06-18,Scotland,Workplace Services,Supplier delay,Low,Closed,7.0,17.4,Process updated
+INC-00202,2026-06-01,Scotland,Facilities Response,Staffing shortage,Low,Closed,5.8,15.8,Training required
+INC-00203,2026-04-08,Midlands,Workplace Services,Process failure,Low,Closed,4.2,12.0,Supplier action
+INC-00204,2026-05-05,South East,Workplace Projects,Health & safety issue,Low,Open,1.9,50.0,
+INC-00205,2026-03-04,Midlands,Workplace Projects,Data quality issue,Low,Closed,1.8,19.6,Documentation updated
+INC-00206,2026-03-20,South East,Workplace Projects,System  outage,Low,Closed,3.2,20.7,Process updated
+INC-00207,2026-03-07,Scotland,Facilities Response,Data quality issue,Low,Closed,2.1,22.3,No further action
+INC-00208,2026-01-23,South East,Facilities Response,Building issue,Low,Closed,1.1,3.7,No further action
+INC-00209,2026-02-10,Midlands,Workplace Services,System outage,Low,Closed,1.0,16.0,No further action
+INC-00210,2026-05-10,North West,Estates Support,Staffing shortage,Low,Closed,1.0,9.9,No further action
+INC-00211,2026-05-09,Scotland,Workplace Projects,Data quality issue,High,Closed,4.0,53.0,Supplier action
+INC-00212,2026-02-01,Scotland,Estates Support,Health & safety issue,Medium,Closed,3.2,77.8,Documentation updated
+INC-00213,2026-06-07,South West,Workplace Projects,Supplier delay,Critical,Closed,3.9,4.5,Process updated
+INC-00214,2026-05-11,Midlands,Workplace Services,Supplier delay,High,In Progress,31.7,44.3,
+INC-00215,2026-01-09,South East,Facilities Response,Data quality issue,Low,Open,15.8,45.0,
+INC-00216,2026-04-18,Midlands,Workplace Services,Process failure,Low,Closed,7.8,17.2,Documentation updated
+INC-00217,2026-06-05,South East,Facilities Response,Staffing shortage,Medium,Open,12.3,36.5,
+INC-00218,2026-03-23,South East,Workplace Services,Health & safety issue,Low,Closed,6.8,14.8,Supplier action
+INC-00219,2026-06-12,Scotland,Workplace Services,Supplier delay,Medium,Closed,6.3,7.6,Process updated
+INC-00220,2026-05-28,North East,Workplace Projects,Health & safety issue,Low,Closed,4.5,13.6,Documentation updated
+INC-00221,2026-02-26,North West,Facilities Response,Data quality issue,Medium,Open,1.8,31.4,
+INC-00222,2026-03-18,Wales,Estates Support,Staffing shortage,High,Closed,7.8,11.4,No further action
+INC-00223,2026-03-13,Scotland,Estates Support,Process failure,Critical,Closed,9.1,11.3,Training required
+INC-00224,2026-04-12,North West,Workplace Projects,Process failure,Medium,Closed,9.2,30.8,No further action
+INC-00225,2026-06-22,Wales,Estates Support,Data quality issue,Medium,Closed,2.2,39.3,Documentation updated
+INC-00226,2026-03-02,Scotland,Workplace Services,Health & safety issue,Low,Closed,2.6,7.1,Supplier action
+INC-00227,2026-02-22,North West,Estates Support,System outage,Medium,Open,0.8,38.6,
+INC-00228,2026-01-02,South West,Facilities Response,Health & safety issue,Low,In Progress,6.7,10.9,
+INC-00229,2026-01-12,Midlands,Workplace Projects,Building issue,Medium,In Progress,0.8,32.8,
+INC-00230,2026-06-21,Scotland,Workplace Services,System outage,Medium,Open,10.6,11.8,
+INC-00231,2026-03-06,Scotland,Estates Support,Data quality issue,Low,Open,2.5,4.4,
+INC-00232,2026-05-27,Wales,Workplace Services,Building issue,Low,Closed,2.4,22.0,Supplier action
+INC-00233,2026-05-12,South West,Workplace Projects,Process failure,Low,Open,2.7,16.0,
+INC-00234,2026-06-11,Midlands,Workplace Services,Customer escalation,Medium,Closed,0.5,1.2,Training required
+INC-00235,2026-01-27,Scotland,Workplace Projects,System outage,Medium,In Progress,3.7,21.2,
+INC-00236,2026-05-22,South West,Workplace Services,System outage,Medium,In Progress,4.4,39.1,
+INC-00237,2026-04-23,North East,Estates Support,System outage,High,Closed,6.1,23.8,Training required
+INC-00238,2026-04-17,Scotland,Workplace Services,Building issue,Low,Closed,3.7,5.2,Supplier action
+INC-00239,2026-02-28,Midlands,Workplace Services,Health & safety issue,Low,Closed,0.5,8.0,Documentation updated
+INC-00240,2026-01-01,North West,Estates Support,Health & safety issue,Low,In Progress,4.7,16.5,
+INC-00241,2026-06-10,South East,Estates Support,Building issue,High,Closed,9.4,11.0,Documentation updated
+INC-00242,2026-06-24,Scotland,Estates Support,Supplier delay,High,Closed,10.2,59.5,No further action
+INC-00243,2026-03-23,Scotland,Estates Support,Data quality issue,Low,Closed,0.6,1.7,Process updated
+INC-00244,2026-06-16,North West,Workplace Services,Supplier delay,Medium,Closed,5.0,5.2,Training required
+INC-00245,2026-02-20,Wales,Workplace Services,Staffing shortage,Low,Open,3.9,20.9,
+INC-00246,2026-04-03,Scotland,Workplace Projects,Supplier delay,Critical,Closed,18.0,56.3,Supplier action
+INC-00247,2026-03-06,Scotland,Estates Support,Building issue,Low,Closed,1.2,9.1,Process updated
+INC-00248,2026-02-07,South East,Facilities Response,Data quality issue,High,Closed,1.5,25.4,Training required
+INC-00249,2026-01-30,Midlands,Facilities Response,Staffing shortage,Low,Open,3.4,21.3,
+INC-00250,2026-01-23,North West,Workplace Projects,Staffing shortage,Low,Closed,0.4,6.7,Training required
+INC-00251,2026-06-05,Midlands,Workplace Projects,System outage,Low,Closed,10.6,15.8,Training required
+INC-00252,2026-05-26,South West,Estates Support,Staffing shortage,Low,Closed,1.7,15.9,Documentation updated
+INC-00253,2026-05-16,North West,Workplace Projects,Process failure,Medium,Closed,1.1,4.4,Training required
+INC-00254,2026-03-10,North East,Workplace Projects,Staffing shortage,Medium,In Progress,2.9,3.6,
+INC-00255,2026-04-17,North West,Facilities Response,Process failure,Low,Closed,0.9,9.3,Training required
+INC-00256,2026-05-02,Scotland,Facilities Response,Staffing shortage,Low,Open,18.8,28.7,
+INC-00257,2026-01-29,North West,Estates Support,System outage,Low,In Progress,12.7,31.4,
+INC-00258,2026-03-10,North East,Workplace Services,Building issue,Medium,In Progress,9.5,20.0,
+INC-00259,2026-02-11,South East,Workplace Services,System outage,Low,In Progress,1.8,5.8,
+INC-00260,2026-02-13,South East,Workplace Projects,Data quality issue,Low,In Progress,2.4,14.8,
+INC-00261,2026-05-19,North East,Workplace Services,Data quality issue,Critical,Closed,15.1,57.6,Training required
+INC-00262,2026-01-19,North East,Workplace Services,Building issue,Low,Closed,4.7,34.6,Supplier action
+INC-00263,2026-04-27,South West,Facilities Response,Data quality issue,Medium,In Progress,7.3,21.6,
+INC-00264,2026-01-05,South East,Workplace Projects,Supplier delay,Medium,Open,18.0,71.6,
+INC-00265,2026-06-03,Wales,Workplace Projects,Process failure,Medium,Closed,3.9,17.2,Supplier action
+INC-00266,2026-06-28,Wales,Estates Support,Staffing shortage,Low,Open,6.1,14.3,
+INC-00267,2026-03-14,Scotland,Workplace Services,System outage,Low,Closed,8.2,9.0,Supplier action
+INC-00268,2026-03-10,Midlands,Facilities Response,Customer escalation,Low,Closed,2.6,17.3,Supplier action
+INC-00269,2026-03-08,South West,Facilities Response,Building issue,Medium,Open,8.7,14.6,
+INC-00270,2026-01-30,Wales,Estates Support,Supplier delay,Critical,Closed,26.1,43.7,Supplier action
+INC-00271,2026-03-06,North West,Workplace Services,Building issue,Medium,In Progress,7.5,33.9,
+INC-00272,2026-05-08,South East,Workplace Services,Supplier delay,High,Closed,11.8,21.9,No further action
+INC-00273,2026-06-07,Scotland,Estates Support,Staffing shortage,Low,Open,3.4,18.5,
+INC-00274,2026-02-14,Wales,Estates Support,Supplier delay,High,Closed,6.8,55.2,No further action
+INC-00275,2026-03-07,Scotland,Workplace Services,Customer escalation,Medium,Open,10.5,19.7,
+INC-00276,2026-04-30,North West,Estates Support,Customer escalation,Low,In Progress,6.8,16.8,
+INC-00277,2026-06-07,Wales,Workplace Services,Staffing shortage,Low,Closed,5.3,7.9,Training required
+INC-00278,2026-01-10,South East,Facilities Response,Health & safety issue,Low,Closed,1.3,17.1,No further action
+INC-00279,2026-02-22,South East,Facilities Response,Data quality issue,Medium,In Progress,12.9,35.9,
+INC-00280,2026-01-12,Midlands,Facilities Response,Health & safety issue,High,Closed,11.7,21.4,Process updated
+INC-00281,2026-03-20,Scotland,Workplace Services,Supplier delay,Medium,Closed,2.1,24.2,Training required
+INC-00282,2026-01-08,Scotland,Workplace Services,Health & safety issue,High,In Progress,23.6,77.2,
+INC-00283,2026-04-17,North West,Estates Support,Data quality issue,High,Open,21.1,108.8,
+INC-00284,2026-03-24,Wales,Workplace Projects,Staffing shortage,High,In Progress,1.9,3.2,
+INC-00285,2026-06-06,North West,Estates Support,Customer escalation,High,Closed,2.1,11.1,Supplier action
+INC-00286,2026-01-13,North East,Workplace Projects,System outage,Medium,Open,6.6,13.0,
+INC-00287,2026-01-21,Midlands,Estates Support,Supplier delay,Medium,Closed,2.7,59.3,No further action
+INC-00288,2026-02-10,Midlands,Workplace Projects,Process failure,Low,Closed,2.0,2.7,Process updated
+INC-00289,2026-01-13,North West,Workplace Services,Supplier delay,Low,Closed,4.1,12.2,Process updated
+INC-00290,2026-04-10,South West,Workplace Services,System outage,Low,Open,5.0,9.8,
+INC-00291,2026-06-21,North West,Workplace Projects,System outage,Medium,Open,0.9,1.7,
+INC-00292,2026-01-13,Scotland,Facilities Response,Building issue,Medium,Open,1.0,22.0,
+INC-00293,2026-01-13,North West,Workplace Projects,System outage,High,Open,26.1,27.1,
+INC-00294,2026-05-11,North West,Workplace Services,Data quality issue,High,In Progress,6.2,107.5,
+INC-00295,2026-03-31,South West,Workplace Projects,Health & safety issue,Medium,Closed,4.2,71.3,Supplier action
+INC-00296,2026-06-30,Scotland,Estates Support,Supplier delay,High,In Progress,3.5,4.0,
+INC-00297,2026-06-02,South East,Facilities Response,System outage,Low,Open,0.4,4.9,
+INC-00298,2026-05-15,South East,Estates Support,Staffing shortage,Low,Closed,3.6,7.9,Documentation updated
+INC-00299,2026-02-28,North West,Estates Support,Building issue,Medium,Closed,5.1,16.6,No further action
+INC-00300,2026-06-21,Scotland,Facilities Response,Customer escalation,Critical,In Progress,12.0,65.0,
+INC-00301,2026-03-16,Wales,Workplace Projects,System outage,Medium,,7.0,24.4,Process updated
+INC-00302,2026-01-26,South East,Estates Support,Staffing shortage,Medium,In Progress,8.8,27.0,
+INC-00303,2026-04-05,South West,Estates Support,Customer escalation,High,Open,4.3,43.8,
+INC-00304,2026-02-26,Wales,Workplace Services,Supplier delay,Medium,Closed,13.8,26.2,Process updated
+INC-00305,2026-02-23,North West,Facilities Response,Customer escalation,Medium,In Progress,15.4,74.4,
+INC-00306,2026-05-14,North West,Facilities Response,Process failure,Medium,Closed,1.5,12.5,Supplier action
+INC-00307,2026-01-06,Midlands,Workplace Projects,Data quality issue,High,Closed,2.1,164.1,Training required
+INC-00308,2026-01-11,North West,Workplace Projects,Health & safety issue,Critical,Open,43.7,308.9,
+INC-00309,2026-03-05,Wales,Facilities Response,Staffing shortage,Medium,In Progress,3.4,19.6,
+INC-00310,2026-02-24,North East,Facilities Response,Data quality issue,Critical,Open,23.4,143.6,
+INC-00311,2026-04-08,South West,Estates Support,Supplier delay,Medium,Closed,7.6,10.8,No further action
+INC-00312,2026-04-04,South West,Estates Support,Data quality issue,Medium,Closed,7.9,20.3,Process updated
+INC-00313,2026-06-14,Scotland,Workplace Services,Data quality issue,Low,Closed,6.1,6.7,Training required
+INC-00314,2026-04-14,South East,Workplace Projects,Process failure,High,In Progress,3.2,19.0,
+INC-00315,2026-04-18,South West,Facilities Response,Process failure,High,Closed,27.2,48.1,Process updated
+INC-00316,2026-04-03,Midlands,Estates Support,Building issue,Low,Closed,0.6,8.0,Training required
+INC-00317,2026-01-17,South East,Workplace Projects,Building issue,Low,Closed,2.2,25.9,Process updated
+INC-00318,2026-02-27,South East,Workplace Projects,Supplier delay,Low,Closed,1.2,1.7,Training required
+INC-00319,2026-05-25,Scotland,Workplace Projects,Building issue,Low,Open,3.4,10.6,
+INC-00320,2026-06-28,North West,Workplace Projects,Staffing shortage,Medium,In Progress,2.7,43.1,
+INC-00321,2026-03-12,South East,Workplace Services,Data quality issue,Low,Closed,8.0,17.9,Documentation updated
+INC-00322,2026-05-16,North East,Estates Support,Process failure,Medium,Open,5.6,13.8,
+INC-00323,2026-05-02,Wales,Workplace Services,Customer escalation,Medium,Closed,9.5,16.8,Training required
+INC-00324,2026-01-24,North West,Workplace Projects,System outage,Low,Closed,3.1,7.3,Documentation updated
+INC-00325,2026-03-10,North West,Workplace Services,System outage,Medium,In Progress,3.2,16.5,
+INC-00326,2026-04-11,South East,Workplace Projects,Process failure,Low,In Progress,1.6,4.9,
+INC-00327,2026-06-28,Scotland,Workplace Projects,Process failure,Critical,Closed,16.6,84.9,Documentation updated
+INC-00328,2026-05-21,North West,Facilities Response,Building issue,High,Closed,3.3,13.0,Process updated
+INC-00329,2026-05-06,North West,Estates Support,Customer escalation,High,In Progress,7.5,12.5,
+INC-00330,2026-01-16,Scotland,Estates Support,Health & safety issue,Medium,Closed,2.1,15.2,Process updated
+INC-00331,2026-05-19,South West,Facilities Response,Data quality issue,Low,Open,3.9,5.7,
+INC-00332,2026-04-11,Scotland,Workplace Services,Staffing shortage,Medium,Open,18.5,29.2,
+INC-00333,2026-04-14,North East,Estates Support,System outage,Medium,Closed,7.0,42.6,Process updated
+INC-00334,2026-06-11,South East,Workplace Services,Process failure,Low,Open,13.8,38.3,
+INC-00335,2026-03-04,South East,Workplace Projects,Customer escalation,Medium,Closed,2.4,14.3,No further action
+INC-00336,2026-02-01,North West,Workplace Projects,Staffing shortage,Low,Closed,6.7,6.8,Training required
+INC-00337,2026-02-02,Wales,Workplace Services,Health & safety issue,Low,Closed,2.8,18.2,Process updated
+INC-00338,2026-06-26,Midlands,Workplace Services,Staffing shortage,Medium,In Progress,16.8,39.4,
+INC-00339,2026-05-27,North West,Estates Support,System outage,High,Open,10.5,40.5,
+INC-00340,2026-01-02,South East,Estates Support,Health & safety issue,Medium,Closed,10.0,82.2,Supplier action
+INC-00341,2026-03-13,Scotland,Workplace Services,Building issue,Low,Closed,1.1,7.8,Process updated
+INC-00342,2026-01-05,South East,Facilities Response,Health & safety issue,Medium,Closed,2.7,4.3,Process updated
+INC-00343,2026-01-19,South West,Estates Support,Customer escalation,Low,Open,14.4,33.8,
+INC-00344,2026-05-15,South West,Facilities Response,Health & safety issue,Medium,In Progress,1.0,6.9,
+INC-00345,2026-03-23,Wales,Workplace Services,Supplier delay,Critical,In Progress,54.3,59.8,
+INC-00346,2026-02-27,Scotland,Facilities Response,Supplier delay,Medium,Closed,4.9,9.0,Process updated
+INC-00347,2026-03-12,North East,Facilities Response,Staffing shortage,Medium,Closed,2.2,21.4,Training required
+INC-00348,2026-06-20,South West,Estates Support,Process failure,Low,Open,1.6,2.8,
+INC-00349,2026-04-18,Midlands,Estates Support,Process failure,Medium,In Progress,0.6,61.0,
+INC-00350,2026-01-27,South West,Workplace Services,Process failure,Medium,Closed,4.2,9.4,Training required
+INC-00351,2026-06-06,North East,Estates Support,Supplier delay,Low,In Progress,10.5,27.3,
+INC-00352,2026-02-17,Scotland,Workplace Projects,Supplier delay,Medium,Closed,0.8,18.6,Documentation updated
+INC-00353,2026-03-09,Wales,Workplace Services,System outage,Medium,Closed,3.0,36.0,Training required
+INC-00354,2026-06-09,South West,Workplace Projects,Supplier delay,Medium,Closed,7.3,14.4,No further action
+INC-00355,2026-03-26,Wales,Workplace Projects,Data quality issue,High,In Progress,7.0,24.7,
+INC-00356,2026-05-27,Midlands,Workplace Services,System outage,Medium,Closed,6.5,10.6,Process updated
+INC-00357,2026-05-31,Scotland,Workplace Projects,Customer escalation,Low,Closed,1.2,5.2,Training required
+INC-00358,2026-02-09,North West,Facilities Response,Supplier delay,Medium,Closed,6.1,7.6,Training required
+INC-00359,2026-03-23,South East,Estates Support,Customer escalation,Medium,In Progress,8.2,17.3,
+INC-00360,2026-04-12,South East,Workplace Projects,Health & safety issue,Critical,Closed,22.0,50.1,Documentation updated
+INC-00361,2026-05-14,South East,Estates Support,Data quality issue,Low,Closed,8.2,22.0,Supplier action
+INC-00362,2026-03-26,North West,Facilities Response,Data quality issue,Low,Closed,2.8,12.4,Supplier action
+INC-00363,2026-02-06,South East,Facilities Response,Process failure,High,Closed,8.6,15.5,Documentation updated
+INC-00364,2026-04-17,Midlands,Workplace Projects,System outage,Low,Closed,2.2,15.6,Process updated
+INC-00365,2026-04-12,North East,Workplace Projects,System outage,Medium,Closed,14.8,39.5,Supplier action
+INC-00366,2026-04-19,South East,Estates Support,Building issue,Low,Closed,1.6,5.2,Training required
+INC-00367,2026-01-23,North East,Workplace Services,Data quality issue,Low,Closed,6.5,9.6,Documentation updated
+INC-00368,2026-02-05,South West,Workplace Services,Customer escalation,Medium,Closed,2.4,44.5,Supplier action
+INC-00369,2026-04-19,Midlands,Facilities Response,Building issue,Medium,Closed,11.3,18.9,Supplier action
+INC-00370,2026-06-07,Midlands,Facilities Response,Customer escalation,Low,In Progress,2.2,18.3,
+INC-00371,2026-04-26,North East,Estates Support,Customer escalation,Low,In Progress,4.8,21.4,
+INC-00372,2026-01-18,North West,Facilities Response,System outage,Low,Closed,5.0,31.9,Training required
+INC-00373,2026-05-18,South West,Estates Support,System outage,Low,Closed,3.6,7.1,Supplier action
+INC-00374,2026-04-28,North East,Workplace Projects,Staffing shortage,Medium,In Progress,3.2,28.4,
+INC-00375,2026-01-19,South West,Workplace Projects,System outage,Medium,In Progress,4.0,13.6,
+INC-00376,2026-05-09,South West,Workplace Projects,Health & safety issue,High,Closed,6.7,89.5,Training required
+INC-00377,2026-01-17,North East,Workplace Services,Staffing shortage,Medium,Closed,4.0,13.8,Process updated
+INC-00378,2026-03-03,South East,Workplace Services,Staffing shortage,Medium,In Progress,5.5,26.5,
+INC-00379,2026-05-04,South East,Facilities Response,Health & safety issue,Medium,Closed,3.6,40.9,Process updated
+INC-00380,2026-04-18,North West,Workplace Services,Building issue,Medium,Closed,9.1,18.4,Supplier action
+INC-00381,2026-05-19,Scotland,Facilities Response,Supplier delay,Medium,Closed,2.1,6.3,No further action
+INC-00382,2026-04-14,Wales,Workplace Projects,System outage,Medium,In Progress,3.5,16.5,
+INC-00383,2026-03-20,North East,Workplace Services,Building issue,Medium,Closed,1.7,9.5,Supplier action
+INC-00384,2026-03-03,North West,Workplace Projects,Supplier delay,Medium,Closed,13.7,22.3,Training required
+INC-00385,2026-03-03,South East,Workplace Services,Data quality issue,Low,Closed,5.5,15.5,Process updated
+INC-00386,2026-06-13,South East,Facilities Response,Health & safety issue,Medium,In Progress,2.7,23.1,
+INC-00387,2026-04-09,South West,Workplace Projects,Staffing shortage,Medium,Open,1.6,41.4,
+INC-00388,2026-06-06,North East,Workplace Projects,Staffing shortage,Medium,In Progress,5.8,45.4,
+INC-00389,2026-03-03,North East,Facilities Response,Staffing shortage,Low,Closed,1.1,12.6,Training required
+INC-00390,2026-04-04,South East,Facilities Response,Customer escalation,Medium,Closed,4.9,7.5,Supplier action
+INC-00391,2026-03-31,Midlands,Facilities Response,Health & safety issue,Medium,Closed,2.0,52.4,Documentation updated
+INC-00392,2026-05-09,Midlands,Workplace Projects,Supplier delay,Low,In Progress,4.1,26.0,
+INC-00393,2026-03-15,South West,Estates Support,Health & safety issue,High,Open,13.5,55.7,
+INC-00394,2026-06-10,Midlands,Workplace Services,Process failure,Medium,In Progress,11.1,16.1,
+INC-00395,2026-01-05,South West,Facilities Response,Process failure,Medium,Closed,11.9,51.3,Documentation updated
+INC-00396,2026-04-14,South West,Facilities Response,Staffing shortage,High,Closed,8.2,10.3,Supplier action
+INC-00397,2026-01-20,Wales,Workplace Services,Health & safety issue,Medium,In Progress,10.3,119.1,
+INC-00398,2026-06-12,Midlands,Workplace Projects,System outage,Low,Closed,0.4,6.0,Supplier action
+INC-00399,2026-06-07,North West,Workplace Projects,Process failure,Low,Closed,4.6,9.3,Supplier action
+INC-00400,2026-04-09,Wales,Workplace Services,Supplier delay,High,Closed,8.2,151.3,Supplier action
+INC-00401,2026-06-20,South West,Workplace Services,Data quality issue,Low,Closed,7.4,13.4,Training required
+INC-00402,2026-01-28,Midlands,Estates Support,Building issue,Medium,Open,3.9,39.4,
+INC-00403,2026-06-19,South East,Workplace Services,Health & safety issue,Medium,Closed,9.4,17.5,Training required
+INC-00404,2026-04-30,Wales,Workplace Services,Customer escalation,Medium,Closed,5.7,71.6,Training required
+INC-00405,2026-05-30,North East,Workplace Projects,System outage,High,Open,1.2,27.7,
+INC-00406,2026-04-03,Wales,Facilities Response,Health & safety issue,Low,Closed,3.6,18.8,No further action
+INC-00407,2026-02-09,South East,Facilities Response,Data quality issue,High,Closed,5.2,10.3,Documentation updated
+INC-00408,2026-06-26,North West,Workplace Projects,Staffing shortage,Low,Open,1.9,2.6,
+INC-00409,2026-01-08,Scotland,Facilities Response,Health & safety issue,Low,Open,7.8,34.8,
+INC-00410,2026-03-03,South West,Workplace Projects,Customer escalation,High,Closed,12.2,22.5,Process updated
+INC-00411,2026-06-12,North East,Workplace Services,Customer escalation,High,Closed,6.2,63.7,No further action
+INC-00412,2026-05-04,Scotland,Estates Support,System outage,Low,Closed,10.1,11.2,Supplier action
+INC-00413,2026-04-08,Scotland,Workplace Projects,Staffing shortage,Low,Open,0.5,36.5,
+INC-00414,2026-06-09,North East,Workplace Services,Building issue,Medium,Closed,17.7,28.1,Supplier action
+INC-00415,2026-04-20,South West,Workplace Services,Data quality issue,Low,Closed,1.4,6.9,Documentation updated
+INC-00416,2026-01-13,Scotland,Workplace Services,Data quality issue,Low,Closed,1.8,27.0,Training required
+INC-00417,2026-01-31,North West,Workplace Projects,Process failure,Medium,In Progress,3.8,31.1,
+INC-00418,2026-05-08,Scotland,Estates Support,Data quality issue,Low,Closed,2.4,54.7,Training required
+INC-00419,2026-02-26,South East,Workplace Services,System outage,Low,In Progress,1.8,11.8,
+INC-00420,2026-06-17,South West,Facilities Response,Customer escalation,Low,In Progress,16.3,44.1,
+INC-00421,2026-05-28,Scotland,Workplace Services,Health & safety issue,Medium,Closed,3.9,15.8,Supplier action
+INC-00422,2026-03-12,Scotland,Workplace Projects,Customer escalation,Low,Open,2.2,11.3,
+INC-00423,2026-05-21,South East,Workplace Services,Staffing shortage,Low,In Progress,3.4,11.9,
+INC-00424,2026-04-05,North West,Workplace Projects,System outage,Medium,In Progress,5.9,8.6,
+INC-00425,2026-06-15,South East,Workplace Services,Data quality issue,Low,Closed,1.1,23.1,Documentation updated
+INC-00426,2026-06-15,Wales,Workplace Projects,Process failure,Low,Closed,10.1,38.4,No further action
+INC-00427,2026-06-26,South East,Workplace Services,Process failure,Medium,Open,6.1,10.6,
+INC-00428,2026-03-25,North East,Facilities Response,Building issue,Medium,Closed,8.4,26.2,Documentation updated
+INC-00429,2026-03-22,North East,Workplace Services,Building issue,Medium,Closed,2.2,7.1,Supplier action
+INC-00430,2026-04-19,Wales,Workplace Projects,Supplier delay,Low,Closed,3.5,3.6,No further action
+INC-00431,2026-01-16,South West,Facilities Response,System outage,Low,In Progress,5.5,11.9,
+INC-00432,2026-04-04,Midlands,Estates Support,Building issue,Low,Closed,2.9,14.9,Process updated
+INC-00433,2026-06-29,Midlands,Estates Support,Health & safety issue,Low,Open,1.5,25.7,
+INC-00434,2026-05-17,South East,Workplace Services,Staffing shortage,Medium,Closed,1.7,9.1,No further action
+INC-00435,2026-05-16,North West,Facilities Response,Staffing shortage,Medium,Closed,3.0,28.0,Supplier action
+INC-00436,2026-04-05,South East,Workplace Projects,Building issue,Medium,In Progress,9.5,56.7,
+INC-00437,2026-03-27,Scotland,Workplace Services,Staffing shortage,Medium,Closed,2.2,12.0,Process updated
+INC-00438,2026-05-29,Wales,Estates Support,Customer escalation,Low,Open,3.5,16.9,
+INC-00439,2026-01-28,South East,Estates Support,Data quality issue,Medium,Open,2.7,46.6,
+INC-00440,2026-06-13,Wales,Workplace Projects,System outage,Medium,Closed,2.6,12.9,Supplier action
+INC-00441,2026-04-09,Scotland,Workplace Projects,System outage,Low,Closed,1.8,24.5,No further action
+INC-00442,2026-04-24,Wales,Workplace Projects,Customer escalation,Low,Open,1.5,6.8,
+INC-00443,2026-01-25,Wales,Estates Support,Process failure,Low,Closed,8.6,21.7,Training required
+INC-00444,2026-03-08,North West,Estates Support,Health & safety issue,Medium,Closed,0.5,4.8,Documentation updated
+INC-00445,2026-02-13,North West,Facilities Response,Supplier delay,High,Open,12.9,23.6,
+INC-00446,2026-06-25,South West,Workplace Services,Supplier delay,Low,Closed,1.8,8.9,Process updated
+INC-00447,2026-04-26,Scotland,Facilities Response,Data quality issue,Medium,In Progress,3.9,10.3,
+INC-00448,2026-06-29,South East,Workplace Services,System outage,Low,Closed,3.1,32.4,No further action
+INC-00449,2026-02-16,Scotland,Estates Support,Data quality issue,High,Closed,8.0,40.7,Supplier action
+INC-00450,2026-02-09,North West,Workplace Services,Health & safety issue,High,Closed,14.6,18.0,Documentation updated
+INC-00451,2026-06-30,Midlands,Workplace Projects,Process failure,Low,In Progress,1.2,29.7,
+INC-00452,2026-01-02,South East,Workplace Projects,Staffing shortage,Medium,Open,1.8,39.0,
+INC-00453,2026-05-03,South East,Workplace Projects,Process failure,High,Open,35.8,45.0,
+INC-00454,2026-06-11,Scotland,Workplace Projects,System outage,Low,In Progress,3.7,7.4,
+INC-00455,2026-06-19,South East,Workplace Services,Staffing shortage,Low,In Progress,5.9,8.1,
+INC-00456,2026-01-17,North West,Facilities Response,Process failure,Low,Closed,1.9,32.7,Supplier action
+INC-00457,2026-04-20,North East,Workplace Projects,Process failure,High,In Progress,5.0,23.8,
+INC-00458,2026-06-12,Scotland,Workplace Services,System outage,High,Closed,8.7,93.4,Training required
+INC-00459,2026-01-20,North East,Estates Support,Supplier delay,Medium,Open,4.6,27.2,
+INC-00460,2026-01-13,North East,Workplace Projects,Staffing shortage,Low,Closed,0.5,15.4,Supplier action
+INC-00461,2026-05-27,North East,Estates Support,Health & safety issue,Low,Open,6.2,18.1,
+INC-00462,2026-05-25,Wales,Facilities Response,Health & safety issue,Low,Open,2.2,16.4,
+INC-00463,2026-05-22,North West,Estates Support,Data quality issue,Low,Closed,0.5,30.5,No further action
+INC-00464,2026-06-22,North East,Workplace Projects,Customer escalation,High,Closed,3.1,24.5,Supplier action
+INC-00465,2026-06-08,Wales,Workplace Services,Customer escalation,High,Open,21.9,52.8,
+INC-00466,2026-02-26,North West,Facilities Response,Supplier delay,Medium,Closed,6.2,16.3,No further action
+INC-00467,2026-04-08,South East,Workplace Services,Process failure,Medium,Closed,1.9,3.9,Documentation updated
+INC-00468,2026-05-31,Midlands,Facilities Response,Health & safety issue,High,Closed,7.0,18.3,No further action
+INC-00469,2026-01-06,North West,Estates Support,Supplier delay,Medium,Closed,6.7,28.2,No further action
+INC-00470,2026-03-22,South East,Workplace Services,Health & safety issue,High,Closed,25.8,41.4,Supplier action
+INC-00471,2026-01-03,Wales,Workplace Projects,System outage,Medium,Closed,1.1,51.3,Training required
+INC-00472,2026-03-24,South East,Workplace Services,Health & safety issue,Low,Closed,1.0,3.4,Process updated
+INC-00473,2026-03-15,Wales,Workplace Services,Process failure,Medium,Closed,0.8,3.9,Training required
+INC-00474,2026-01-10,North East,Estates Support,Process failure,High,In Progress,3.9,13.3,
+INC-00475,2026-05-06,South East,Workplace Projects,Supplier delay,Low,Closed,0.5,11.3,Training required
+INC-00476,2026-03-31,Wales,Workplace Services,Customer escalation,Medium,Closed,4.9,14.0,Training required
+INC-00477,2026-02-28,Midlands,Estates Support,Customer escalation,Low,Open,2.3,24.8,
+INC-00478,2026-01-17,North East,Workplace Services,Building issue,Low,In Progress,0.7,3.4,
+INC-00479,2026-04-28,North West,Workplace Projects,Customer escalation,Low,Closed,4.2,30.0,Documentation updated
+INC-00480,2026-02-06,South East,Estates Support,Process failure,Low,Open,1.0,11.7,
+INC-00481,2026-03-05,North West,Estates Support,Data quality issue,Low,Closed,1.4,7.0,Training required
+INC-00482,2026-04-10,Midlands,Estates Support,Building issue,Medium,Closed,5.6,11.0,No further action
+INC-00483,2026-06-29,North West,Workplace Services,Staffing shortage,Low,Open,4.3,26.3,
+INC-00484,2026-01-09,Midlands,Facilities Response,Data quality issue,Low,Closed,1.9,15.9,Documentation updated
+INC-00485,2026-02-13,Scotland,Facilities Response,Customer escalation,Low,Open,13.6,33.5,
+INC-00486,2026-05-08,South East,Workplace Services,Staffing shortage,High,In Progress,13.3,30.7,
+INC-00487,2026-05-18,North West,Workplace Projects,Health & safety issue,Medium,In Progress,3.3,9.2,
+INC-00488,2026-05-19,Midlands,Workplace Projects,Customer escalation,Medium,Closed,2.0,13.5,Supplier action
+INC-00489,2026-04-02,North East,Estates Support,Supplier delay,Low,Closed,3.6,12.6,Supplier action
+INC-00490,2026-06-03,North West,Facilities Response,Building issue,Medium,Closed,2.5,22.8,Process updated
+INC-00491,2026-02-18,South West,Workplace Projects,Data quality issue,Low,Open,5.5,8.7,
+INC-00492,2026-02-11,North East,Workplace Services,Process failure,Medium,Closed,1.9,20.8,Documentation updated
+INC-00493,2026-01-22,Scotland,Facilities Response,System outage,Low,Closed,1.1,12.5,No further action
+INC-00494,2026-06-17,Scotland,Facilities Response,Health & safety issue,Low,Closed,1.4,1.8,No further action
+INC-00495,2026-03-07,North West,Workplace Projects,Process failure,Medium,Closed,5.5,35.0,Training required
+INC-00496,2026-01-29,South East,Workplace Services,Building issue,Medium,In Progress,0.9,2.6,
+INC-00497,2026-05-26,Scotland,Facilities Response,Data quality issue,High,Open,41.3,81.0,
+INC-00498,2026-05-07,South West,Workplace Projects,Health & safety issue,Medium,Closed,9.6,26.8,Supplier action
+INC-00499,2026-05-31,Scotland,Estates Support,Building issue,Low,Open,1.7,3.4,
+INC-00500,2026-05-20,North West,Workplace Services,Building issue,High,Open,22.8,41.7,
+INC-00501,2026-02-13,South West,Workplace Services,Customer escalation,High,Closed,3.9,71.8,Documentation updated
+INC-00502,2026-01-31,North West,Workplace Projects,Process failure,Low,In Progress,11.4,21.9,
+INC-00503,2026-01-29,Scotland,Workplace Services,Supplier delay,Low,In Progress,16.1,19.3,
+INC-00504,2026-03-13,Scotland,Workplace Projects,Health & safety issue,Low,Closed,6.5,53.9,Supplier action
+INC-00505,2026-06-06,Scotland,Workplace Projects,Process failure,Critical,Closed,24.8,44.8,Process updated
+INC-00506,2026-03-22,Midlands,Workplace Projects,Building issue,Medium,Closed,2.8,26.9,Documentation updated
+INC-00507,2026-04-18,South West,Workplace Services,Customer escalation,Low,Open,2.3,68.3,
+INC-00508,2026-06-22,South East,Workplace Services,Process failure,Low,Open,2.4,14.5,
+INC-00509,2026-03-27,North East,Workplace Projects,Supplier delay,Low,Closed,0.8,9.0,Supplier action
+INC-00510,2026-03-18,Midlands,Workplace Projects,Health & safety issue,Medium,Closed,4.9,19.0,Supplier action
+INC-00511,2026-06-03,North West,Estates Support,Staffing shortage,Low,Closed,4.4,8.1,Process updated
+INC-00512,2026-06-19,North East,Estates Support,Staffing shortage,High,Open,12.0,25.9,
+INC-00513,2026-01-11,Wales,Workplace Projects,Supplier delay,Low,Open,1.9,32.4,
+INC-00514,2026-02-15,South East,Workplace Projects,System outage,Low,In Progress,4.6,9.7,
+INC-00515,2026-04-28,South West,Workplace Projects,Process failure,Medium,Closed,3.2,52.3,Documentation updated
+INC-00516,2026-01-23,North West,Estates Support,Supplier delay,Critical,Closed,2.3,23.2,No further action
+INC-00517,2026-01-14,North East,Facilities Response,Staffing shortage,Medium,Open,3.1,5.3,
+INC-00518,2026-06-28,Scotland,Estates Support,Health & safety issue,Medium,Open,3.0,13.9,
+INC-00519,2026-01-07,South West,Facilities Response,Supplier delay,Low,Closed,1.4,10.8,Training required
+INC-00520,2026-02-21,North West,Workplace Projects,Supplier delay,Low,Open,5.0,8.0,
+INC-00521,2026-01-04,Midlands,Facilities Response,Building issue,Low,Closed,0.8,4.5,No further action
+INC-00522,2026-06-27,Midlands,Estates Support,Process failure,Medium,Closed,3.0,9.3,Supplier action
+INC-00523,2026-02-16,South East,Estates Support,System outage,Medium,Closed,3.7,16.3,Supplier action
+INC-00524,2026-03-07,South West,Facilities Response,Supplier delay,Low,In Progress,1.1,15.4,
+INC-00525,2026-05-07,South East,Estates Support,Process failure,Low,Open,0.5,7.1,
+INC-00526,2026-04-11,North West,Facilities Response,System outage,High,Closed,6.4,57.2,Supplier action
+INC-00527,2026-06-16,Wales,Workplace Services,Building issue,Low,Closed,3.3,8.8,Training required
+INC-00528,2026-06-29,Scotland,Workplace Projects,Staffing shortage,Low,Closed,2.5,20.1,Training required
+INC-00529,2026-06-10,South East,Estates Support,Data quality issue,High,Closed,8.4,21.7,Documentation updated
+INC-00530,2026-01-22,North East,Estates Support,System outage,Medium,Closed,0.6,5.7,No further action
+INC-00531,2026-06-28,South West,Workplace Services,Process failure,Low,In Progress,3.6,21.8,
+INC-00532,2026-03-15,Midlands,Facilities Response,Building issue,Low,Closed,1.0,3.6,No further action
+INC-00533,2026-01-29,North West,Facilities Response,Process failure,Low,In Progress,11.0,38.1,
+INC-00534,2026-01-08,South East,Workplace Projects,Staffing shortage,Medium,In Progress,0.6,15.1,
+INC-00535,2026-01-16,Midlands,Workplace Projects,Process failure,Low,In Progress,0.8,32.2,
+INC-00536,2026-03-12,Scotland,Workplace Services,System outage,High,In Progress,6.0,18.3,
+INC-00537,2026-04-20,Midlands,Workplace Services,Data quality issue,Low,Closed,0.8,2.5,Process updated
+INC-00538,2026-06-13,North West,Estates Support,Building issue,Medium,Closed,0.7,48.1,Supplier action
+INC-00539,2026-03-19,North West,Estates Support,System outage,Low,Open,3.9,10.6,
+INC-00540,2026-04-21,North West,Workplace Projects,System outage,Low,Open,1.0,2.3,
+INC-00541,2026-03-08,Wales,Facilities Response,Health & safety issue,Medium,In Progress,1.9,3.7,
+INC-00542,2026-04-28,South West,Facilities Response,Customer escalation,Medium,In Progress,3.7,49.7,
+INC-00543,2026-04-24,South West,Estates Support,Staffing shortage,Medium,In Progress,6.3,65.0,
+INC-00544,2026-02-14,North East,Workplace Services,Staffing shortage,Medium,Closed,2.5,26.1,No further action
+INC-00545,2026-02-02,South East,Estates Support,Process failure,Low,Closed,11.4,39.2,Supplier action
+INC-00546,2026-06-17,Midlands,Workplace Services,Data quality issue,Medium,Open,6.1,15.2,
+INC-00547,2026-02-15,Scotland,Estates Support,Building issue,High,Closed,21.0,167.0,Process updated
+INC-00548,2026-05-14,North West,Workplace Projects,Staffing shortage,Medium,In Progress,5.0,20.4,
+INC-00549,2026-05-29,Midlands,Estates Support,Data quality issue,Low,Closed,0.6,22.7,Supplier action
+INC-00550,2026-06-19,Midlands,Workplace Projects,Process failure,Medium,Closed,6.4,21.5,Documentation updated
+INC-00551,2026-03-31,Midlands,Workplace Services,Customer escalation,Medium,Open,2.0,11.8,
+INC-00552,2026-05-25,South West,Facilities Response,Supplier delay,Low,Closed,2.7,6.9,Documentation updated
+INC-00553,2026-03-16,Midlands,Workplace Projects,Building issue,Low,Closed,0.6,1.0,Process updated
+INC-00554,2026-04-26,North West,Workplace Services,System outage,Low,Open,1.5,10.1,
+INC-00555,2026-05-06,Midlands,Workplace Services,Building issue,Low,Closed,6.1,18.0,Supplier action
+INC-00556,2026-03-14,Midlands,Estates Support,Health & safety issue,Low,Open,5.8,11.9,
+INC-00557,2026-03-30,Midlands,Facilities Response,Process failure,Medium,Closed,0.9,2.6,Training required
+INC-00558,2026-01-10,Midlands,Workplace Projects,Health & safety issue,Medium,Open,2.7,19.4,
+INC-00559,2026-01-04,South West,Workplace Services,Supplier delay,Low,Open,1.4,6.5,
+INC-00560,2026-05-01,South East,Estates Support,Customer escalation,Medium,Closed,11.4,41.9,No further action
+INC-00561,2026-06-19,South East,Workplace Services,Health & safety issue,Low,Closed,0.5,3.8,Process updated
+INC-00562,2026-04-27,Scotland,Workplace Services,Building issue,Low,Open,2.8,17.0,
+INC-00563,2026-03-15,Wales,Workplace Services,Supplier delay,Medium,Open,1.7,69.3,
+INC-00564,2026-03-26,Wales,Facilities Response,Building issue,Low,Closed,0.9,5.9,Process updated
+INC-00565,2026-05-10,Wales,Facilities Response,Supplier delay,Medium,Closed,2.4,12.4,No further action
+INC-00566,2026-03-10,North East,Estates Support,Process failure,Low,Closed,2.0,19.5,Supplier action
+INC-00567,2026-01-14,North East,Facilities Response,Process failure,Medium,Closed,8.3,50.3,Supplier action
+INC-00568,2026-03-13,Scotland,Workplace Projects,Supplier delay,High,Closed,3.9,63.8,Supplier action
+INC-00569,2026-01-10,South East,Workplace Services,Supplier delay,High,In Progress,4.2,5.9,
+INC-00570,2026-06-23,South West,Facilities Response,Process failure,Low,Closed,0.6,3.1,Documentation updated
+INC-00571,2026-03-19,Midlands,Workplace Projects,Health & safety issue,Low,Closed,6.2,42.9,Supplier action
+INC-00572,2026-03-12,Scotland,Workplace Services,Health & safety issue,Medium,Open,5.4,23.7,
+INC-00573,2026-04-14,South East,Workplace Services,Process failure,Medium,Open,1.6,32.5,
+INC-00574,2026-02-11,Midlands,Facilities Response,Building issue,Low,Closed,1.6,9.8,Documentation updated
+INC-00575,2026-02-17,South East,Workplace Projects,Staffing shortage,High,Open,6.2,43.6,
+INC-00576,2026-03-02,North West,Workplace Services,Data quality issue,Low,Closed,2.2,29.6,Supplier action
+INC-00577,2026-01-15,South East,Estates Support,Staffing shortage,Low,In Progress,1.6,20.4,
+INC-00578,2026-04-06,Midlands,Workplace Projects,System outage,Low,In Progress,13.4,19.2,
+INC-00579,2026-03-19,North West,Facilities Response,Customer escalation,Low,In Progress,0.5,2.1,
+INC-00580,2026-06-02,Scotland,Workplace Projects,Supplier delay,Low,Closed,2.5,28.1,Documentation updated
+INC-00581,2026-03-25,North West,Workplace Services,Building issue,High,Closed,9.7,26.3,Process updated
+INC-00582,2026-03-21,North East,Facilities Response,Customer escalation,High,Closed,12.5,23.9,Process updated
+INC-00583,2026-03-10,North East,Workplace Projects,System outage,Low,In Progress,1.1,7.9,
+INC-00584,2026-03-07,Scotland,Workplace Projects,Process failure,Medium,Closed,1.4,3.7,Process updated
+INC-00585,2026-01-18,South East,Estates Support,Health & safety issue,Low,Open,2.9,8.3,
+INC-00586,2026-06-20,South East,Workplace Services,System outage,Medium,Open,13.0,15.1,
+INC-00587,2026-02-03,Scotland,Facilities Response,System outage,Low,In Progress,0.6,8.2,
+INC-00588,2026-04-23,Midlands,Estates Support,System outage,High,Closed,17.9,18.2,Training required
+INC-00589,2026-04-08,Midlands,Estates Support,Supplier delay,High,Closed,7.9,17.9,Training required
+INC-00590,2026-03-09,Wales,Workplace Projects,Building issue,High,In Progress,7.4,67.3,
+INC-00591,2026-06-24,North West,Estates Support,Process failure,Low,Open,6.5,6.5,
+INC-00592,2026-03-06,Wales,Workplace Services,Customer escalation,Low,Closed,2.3,3.1,No further action
+INC-00593,2026-04-09,North West,Workplace Services,Data quality issue,High,In Progress,12.2,35.8,
+INC-00594,2026-01-31,North West,Facilities Response,System outage,Low,Closed,6.9,38.1,Supplier action
+INC-00595,2026-02-25,North West,Workplace Services,Staffing shortage,Low,Closed,1.1,22.8,Documentation updated
+INC-00596,2026-06-14,North East,Workplace Services,Building issue,Low,Open,2.4,10.7,
+INC-00597,2026-01-26,Midlands,Workplace Services,Health & safety issue,High,Closed,1.0,50.7,No further action
+INC-00598,2026-06-30,North West,Estates Support,Building issue,High,Open,12.8,30.8,
+INC-00599,2026-04-06,South West,Facilities Response,System outage,Low,In Progress,6.5,19.9,
+INC-00600,2026-04-15,South West,Facilities Response,Supplier delay,Low,Closed,2.0,8.7,Training required

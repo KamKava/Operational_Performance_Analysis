@@ -1,0 +1,8 @@
+KPI_Name,Source_Field,Target_Value,Target_Description
+Completion Rate,Completion_Rate,0.95,Minimum 95% of available workload completed
+SLA Compliance,SLA_Compliance,0.92,Target percentage completed within SLA
+Quality Pass Rate,Quality_Pass_Rate,0.95,Target percentage passing quality checks
+Customer Satisfaction,Customer_Satisfaction,4.2,Target average customer satisfaction score
+Staff Utilisation,Staff_Utilisation,0.75,Target productive utilisation
+Average Completion Days,Average_Completion_Days,3.0,Maximum preferred average completion time
+Closing Backlog,Closing_Backlog,10.0,Preferred maximum daily closing backlog

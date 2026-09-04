@@ -2,14 +2,6 @@
 OPERATIONAL PROJECT — SYNTHETIC DATA GENERATOR
 ==============================================
 
-Scenario
---------
-You are supporting an Operational Excellence team responsible
-for monitoring operational performance across multiple regions.
-
-The dataset contains operational performance, staffing,
-incidents, actions and regional reference information.
-
 Files
 -----
 
@@ -46,7 +38,7 @@ Files
     Actions resulting from incidents and improvement activity.
 
 
-Recommended Excel Tasks
+Excel Tasks
 -----------------------
 
 DATA CLEANING
@@ -105,8 +97,7 @@ Analyse:
 - Action status
 
 
-DASHBOARD
-Recommended KPIs:
+DASHBOARD KPIs:
 
 - Completion Rate
 - SLA Compliance
@@ -167,8 +158,3 @@ The final Excel workbook should ideally contain:
 8. Management Findings
 9. Recommendations
 
-The objective is not merely to demonstrate Excel formulas.
-
-The objective is to demonstrate the ability to take messy
-operational information, establish reliable metrics, identify
-performance issues and communicate actionable insight.

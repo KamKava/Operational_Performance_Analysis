@@ -1,6 +1,35 @@
 # Operational_Performance_Analysis
 Operational performance analysis project demonstrating Excel data cleaning, KPI analysis, data consolidation, PivotTables, advanced formulas, dynamic arrays, visualisation and management reporting.
 
+## Project Overview
+
+The workbook follows an end-to-end analytical workflow:
+
+**Raw data → Cleaning → Validation → KPI calculations → Regional/team/monthly analysis → Visualisation → Interactive analysis → Recommendations**
+
+The project combines operational, staffing, incident, regional reference and action data into a single reporting solution. Excel Tables, lookup functions, conditional logic, aggregation functions, dynamic arrays, PivotTables and charts are used to transform the source data into reusable analysis and management reporting.
+
+The workbook also includes dedicated data-quality checks to identify missing values, inconsistent text, duplicate IDs, invalid numerical values and violations of operational business rules.
+
+# Operational_Performance_Analysis
+
+Operational performance analysis project demonstrating Excel data cleaning, KPI analysis, data consolidation, PivotTables, advanced formulas, dynamic arrays, visualisation and management reporting.
+
+## Workbook Preview
+
+### Dashboard
+
+![Operational Performance Dashboard](images/Dashboard.png)
+
+The dashboard provides a static management overview of operational performance, including KPI performance against targets, monthly trends, regional performance and team performance.
+
+### Interactive Analysis
+
+![Interactive Performance Analysis](images/closing_backlog.png)
+
+The interactive analysis allows users to select a KPI and investigate its performance over time and across regions or teams.
+
+
 ## Key Findings
 
 Analysis of operational performance from January to June 2026 identified a clear deterioration in workload management and service performance.
@@ -56,4 +85,39 @@ However, quality remained consistently strong at approximately 98%, above the 95
 
 ### Overall conclusion
 
-The analysis indicates that the primary performance challenge is workload management and throughput rather than quality or utilisation alone. Performance varies considerably between teams and regions despite relatively similar utilisation levels. July intervention should therefore focus on understanding differences in working practices and capacity allocation, prioritising underperforming regions, and reducing backlog without compromising the strong quality performance already being achieved.
+The analysis indicates that the primary performance challenge is workload management and throughput rather than quality or utilisation alone. Performance varies considerably between teams and regions despite relatively similar utilisation levels. Recommended next steps are to understand differences in working practices and capacity allocation, prioritise underperforming regions, and reduce backlog without compromising the strong quality performance already being achieved.
+
+
+## Data
+
+The dataset used in this project is **synthetic data generated in Python** using `pandas` and `numpy`. It was created specifically to simulate a realistic operational performance environment and contains deliberately introduced data-quality issues for the cleaning and validation stages of the analysis.
+
+The dataset covers **January to June 2026** and includes:
+
+* Daily operational performance across **7 regions and 4 teams**
+* Monthly staffing and capacity data
+* Operational incidents and severity information
+* Regional reference data
+* Actions and improvement activity
+* KPI definitions and target values
+
+Six CSV files were generated:
+
+| File                       | Description                      |
+| -------------------------- | -------------------------------- |
+| `01_operations_data.csv`   | Daily operational performance    |
+| `02_kpi_targets.csv`       | KPI definitions and targets      |
+| `03_staffing_capacity.csv` | Monthly staffing and capacity    |
+| `04_incident_log.csv`      | Operational incidents            |
+| `05_region_reference.csv`  | Regional reference data          |
+| `06_action_tracker.csv`    | Actions and improvement activity |
+
+The generator intentionally introduces issues such as **inconsistent whitespace, inconsistent text values and missing values**. These provide realistic data-cleaning and validation scenarios while keeping the underlying dataset reproducible.
+
+The operational data also follows defined business rules:
+
+**Opening Backlog + Requests Received = Total Workload**
+
+**Total Workload − Requests Completed = Closing Backlog**
+
+The original synthetic data is retained as the source data, with cleaning and validation performed within the Excel workflow.

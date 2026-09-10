@@ -34,3 +34,26 @@ Analysis of operational performance from January to June 2026 identified a clear
 * Quality Pass Rate remained consistently high, changing only slightly from **98.26% in January to 98.11% in June**.
 * This indicates that the deterioration in completion and workload measures was **not accompanied by a comparable deterioration in quality**.
 
+Management Recommendations
+
+### 1. Review and replicate high-performing team practices
+
+Workplace Projects achieved the strongest team performance, with a 94.98% completion rate, 87.42% SLA compliance and zero closing backlog, despite staff utilisation of 72.77%. In comparison, Estates Support recorded 78.10% completion, 70.26% SLA compliance and a 1,055-item closing backlog, despite having the highest utilisation at 73.63%.
+
+This suggests that utilisation alone does not explain differences in performance. Management should review the workflows, prioritisation methods and working practices used by higher-performing teams and assess whether effective approaches can be applied elsewhere.
+
+### 2. Prioritise North West and Wales for operational review
+
+North West recorded the lowest regional completion rate at 70.63%, while Wales recorded the lowest SLA compliance at 69.33%. Both regions also had substantial closing backlogs of 1,179 and 2,148 respectively.
+
+Management should prioritise these regions for a more detailed review of workload, workflow bottlenecks and capacity allocation. The review should identify the underlying causes before additional resources or other interventions are introduced.
+
+### 3. Improve throughput while protecting quality
+
+Overall completion rate was 83.1%, below the 95% target, while SLA compliance was 76.8%, below the 92% target. Closing backlog increased from 107 in January to 737 in June, while average completion time increased from 4.51 to 5.11 days.
+
+However, quality remained consistently strong at approximately 98%, above the 95% target. Management should therefore focus on improving throughput, timeliness and backlog management while maintaining existing quality controls.
+
+### Overall conclusion
+
+The analysis indicates that the primary performance challenge is workload management and throughput rather than quality or utilisation alone. Performance varies considerably between teams and regions despite relatively similar utilisation levels. July intervention should therefore focus on understanding differences in working practices and capacity allocation, prioritising underperforming regions, and reducing backlog without compromising the strong quality performance already being achieved.
